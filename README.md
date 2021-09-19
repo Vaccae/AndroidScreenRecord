@@ -1,0 +1,2 @@
+# AndroidScreenRecord
+Android端做的本地录屏功能的小Demo，带悬浮窗控制开始和关闭保存文件
